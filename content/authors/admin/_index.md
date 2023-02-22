@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Pingwei Sun (孙平炜)
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: 东北大学
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
