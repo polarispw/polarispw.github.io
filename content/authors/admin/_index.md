@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pingwei Sun (孙平炜)
+title: Pingwei Sun / 孙平炜
 
 # Is this the primary user of the site?
 superuser: true
@@ -34,8 +34,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
 #  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#    institution: Northeastern University
+#    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
