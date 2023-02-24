@@ -31,14 +31,14 @@ item:
     organization_url: http://www.nscscc.com/
     title: Third prize in the finals
     url: ''
-  - certificate_url: 
+  - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2020-12-01'
-    description: 
+    description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: 中华人民共和国教育部
-    organization_url: 
+    organization_url: https://www.edx.org
     title: National Scholarship
-    url: 
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   # - certificate_url: https://www.datacamp.com
   #   date_end: '2020-12-21'
   #   date_start: '2020-07-01'

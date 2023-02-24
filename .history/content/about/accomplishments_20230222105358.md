@@ -23,30 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: http://www.nscscc.com/?p=241
+  - certificate_url: https://www.coursera.org
     date_end: ''
-    date_start: '2022-08-25'
+    date_start: '2021-01-25'
     description: ''
-    organization: NSCSCC Committee
-    organization_url: http://www.nscscc.com/
-    title: Third prize in the finals
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Neural Networks and Deep Learning
     url: ''
-  - certificate_url: 
+  - certificate_url: https://www.edx.org
     date_end: ''
-    date_start: '2020-12-01'
-    description: 
-    organization: 中华人民共和国教育部
-    organization_url: 
-    title: National Scholarship
-    url: 
-  # - certificate_url: https://www.datacamp.com
-  #   date_end: '2020-12-21'
-  #   date_start: '2020-07-01'
-  #   description: ''
-  #   organization: DataCamp
-  #   organization_url: https://www.datacamp.com
-  #   title: 'Object-Oriented Programming in R'
-  #   url: ''
+    date_start: '2021-01-01'
+    description: Formulated informed blockchain models, hypotheses, and use cases.
+    organization: edX
+    organization_url: https://www.edx.org
+    title: Blockchain Fundamentals
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  - certificate_url: https://www.datacamp.com
+    date_end: '2020-12-21'
+    date_start: '2020-07-01'
+    description: ''
+    organization: DataCamp
+    organization_url: https://www.datacamp.com
+    title: 'Object-Oriented Programming in R'
+    url: ''
 
 design:
   columns: '1'
