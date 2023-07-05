@@ -41,7 +41,7 @@ We're an open source movement that depends on your support to stay online and th
 
 ## 配置Hugo
 
-- [下载对应版本Hugo](https://github.com/gohugoio/hugo/releases)
+- [下载extended版本的Hugo](https://github.com/gohugoio/hugo/releases)
 - 将解压得到的exe文件放到`./hugo/bin`中，并加入到环境变量，使用```hugo version```查看版本
 
 ## 创建项目

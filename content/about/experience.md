@@ -27,13 +27,14 @@ experience:
     company_url: ''
     company_logo: oppo_logo
     location: Beijing, China
-    date_start: '2022-03-01'
-    date_end: ''
+    date_start: '2023-03-01'
+    date_end: '2023-07-04'
     description: |2-
         Responsibilities include:
         
-        * AI models deployment on mobile device
-        * NLP & LLM
+        * Pretrained models' deployment on smart phones
+        * Improve LLM inference performance
+        * Efficient Matmul kernel for self-developed framework
 
   - title: TA of Computer System (22fall)
     company: Dept. of Artificial Intelligence, Northeastern University
@@ -45,8 +46,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Preparing the instruction
-        * Building the virtual environment
+        * Prepare the guidebook of practical task
+        * Build the virtual environment
         * Q&A for students in class
 
   # - title: Professor of Semiconductor Physics

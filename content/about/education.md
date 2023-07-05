@@ -37,7 +37,7 @@ experience:
     company_logo: neu
     location: Liaoning, China
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2023-07-01'
     # description: |2-
     #     * Dissertation on MIPS based SoC with DL accelerator
     #     * Photographer

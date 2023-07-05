@@ -64,11 +64,11 @@ social:
 #email: ""
 ---
 
-I’m a senior student at Northeastern University, with a major in Artificial Intelligence, and will graduate in 2023.
+I have graduated from the Northeastern University, with a major in Artificial Intelligence, and will enter the BDT program in HKUST.
 
-I am especially intrigued by the NLP field. Throughout my previous courses and projects, I have focused on language modeling. In my future studies, I would like to explore fields like NLP+X, enabling the model to be used efficiently and conveniently in more scenarios.
+I am especially interested in the NLP field. Throughout my previous courses and projects, I have focused on DL, NLP and hardware acceleration. In my future studies, I would like to explore fields like NLP+X, enabling the model to be used efficiently and conveniently in more scenarios.
 
-Besides, photography and football are my favorites in my free time, and I'm also a photography studio partner. Feel free to cantact with me about things all above.
+Besides, photography and football are my top picks for relaxing in my spare time, and I'm also a partner of the photography studio. Feel free to cantact with me about things all above.
 
 I am now looking for a Phd position in 2024 fall.💪 
 {style="font-size: 1.0rem; background: #FFB76B; background: linear-gradient(to right, #F9D367 0%, #F8DF70 30%, #FBB929 60%, #FCA106 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}

@@ -1,8 +1,8 @@
 ---
-title: Implementation of SoC with Hardware Acceleration func
-summary: This is my dissertation, using my NECore to build up a SoC with an accelerator. Project is still under construction.
+title: High performance CPU design and AI appilication based on MIPS
+summary: This is my graduation thesis, using the NECore to build up a SoC with a CNN accelerator.
 tags:
   - CS
-date: 2023-01-01
+date: 2023-01-04
 external_link: 
 ---
