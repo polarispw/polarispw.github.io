@@ -41,8 +41,8 @@ experience:
     company_url: ''
     company_logo: neu
     location: Liaoning, China
-    date_start: '2022-10-01'
-    date_end: '2022-12-31'
+    date_start: '2022-09-05'
+    date_end: '2023-01-05'
     description: |2-
         Responsibilities include:
         
