@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Pretrained models' deployment on smart phones
-        * Improve LLM inference performance
-        * Efficient Matmul kernel for self-developed framework
+        * Pretrained models' high-performance deployment on smartphones
+        * Investigate the landscape of LLM's deployment on smart devices. The project has been approved for establishment
+        * Efficient Matmul kernel for the self-developed framework
 
   - title: TA of Computer System (22fall)
     company: Dept. of Artificial Intelligence, Northeastern University
