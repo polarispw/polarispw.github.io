@@ -42,7 +42,7 @@ social:
   - icon: envelope
     icon_pack: fas
     # link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-    link: 'mailto:1738860308@qq.com'
+    link: 'mailto:sunpingwei23@gmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/wowchemy
