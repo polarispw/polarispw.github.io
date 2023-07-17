@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Pretrained models' high-performance deployment on smartphones
-        * Investigate the landscape of LLM's deployment on smart devices. The project has been approved for establishment
+        * Investigate the technical solutions of LLM's deployment on smart devices. The project has been approved for establishment
         * Efficient Matmul kernel for the self-developed framework
 
   - title: TA of Computer System (22fall)
