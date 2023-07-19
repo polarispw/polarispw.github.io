@@ -73,4 +73,4 @@ Besides, photography and football are my top picks for relaxing in my spare time
 I am now looking for a Phd position in 2024 fall.💪 
 {style="font-size: 1.0rem; background: #FFB76B; background: linear-gradient(to right, #F9D367 0%, #F8DF70 30%, #FBB929 60%, #FCA106 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}/{{< staticref "uploads/resumec.pdf" "newtab" >}}简历{{< /staticref >}} as a PDF.
