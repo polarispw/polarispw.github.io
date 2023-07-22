@@ -70,7 +70,7 @@ I am especially interested in the NLP field. Throughout my previous courses and 
 
 Besides, photography and football are my top picks for relaxing in my spare time, and I'm also a partner of the photography studio. Feel free to cantact with me about things all above.
 
-I am now looking for a Phd position in 2024 fall.💪 
-{style="font-size: 1.0rem; background: #FFB76B; background: linear-gradient(to right, #F9D367 0%, #F8DF70 30%, #FBB929 60%, #FCA106 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+<!-- I am now looking for a Phd position in 2024 fall.💪 
+{style="font-size: 1.0rem; background: #FFB76B; background: linear-gradient(to right, #F9D367 0%, #F8DF70 30%, #FBB929 60%, #FCA106 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"} -->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}/{{< staticref "uploads/resumec.pdf" "newtab" >}}简历{{< /staticref >}} as a PDF.
