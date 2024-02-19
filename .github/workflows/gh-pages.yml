@@ -16,10 +16,10 @@ jobs:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
  
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2.6.0
+        uses: peaceiris/actions-hugo@16361eb4acea8698b220b76c0d4e84e1fd22c61d # v2.6.0
         with:
-          hugo-version: 'latest'
-          # extended: true
+          hugo-version: '0.122.0'
+          extended: true
  
       - name: Build
         run: hugo --minify
