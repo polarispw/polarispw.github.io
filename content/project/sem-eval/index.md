@@ -4,5 +4,5 @@ summary: In this project, the use of PLMs as extractors and the end-to-end fine-
 tags:
   - NLP
 date: 2023-09-01
-external_link: https://github.com/polarispw/NE-Core
+external_link: https://github.com/polarispw/SemEval-2023-Fine-tuning-vs-Prompting
 ---
