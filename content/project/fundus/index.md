@@ -1,5 +1,5 @@
 ---
-title: Fundus image analysis with Deep learning methods
+title: Fundus Image Analysis with Deep Learning Methods
 summary: This project includes several submodules of the diabetic retinopathy diagnosis system, including macular positioning, vascular segmentation, and grading. Models like YOLO, UNet, and Efficientnet are applied to analyze fundus images and assist in the diagnosis of DR.
 tags:
   - CV

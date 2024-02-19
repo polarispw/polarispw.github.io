@@ -26,10 +26,10 @@ experience:
     company: The Hong Kong University of Science and Technology
     company_url: ''
     company_logo: hkust
-    location: Hong Kong, China
-    date_start: '2023-09-01'
-    date_end: '2024-07-01'
-    description: I am now an incoming postgraduate student
+    location: Hong Kong SAR, China
+    date_start: '2023-08-01'
+    date_end: '2025-01-01'
+    description: Working on efficient LLM & acceleration of inference
 
   - title: BEng in Artificial Intelligence
     company: Northeastern University

@@ -1,5 +1,5 @@
 ---
-title: BERT based sentiment classification
+title: BERT Based Sentiment Analysis
 summary: Based on the BERT model, this project enhances the performance of the model on extremely unbalanced data sets through a variety of finetuning methods and a contrastive learning task.
 tags:
   - NLP

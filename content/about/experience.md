@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Pretrained models' high-performance deployment on smartphones
-        * Investigate the technical solutions of LLM's deployment on smart devices. The project has been approved for establishment
-        * Efficient Matmul kernel for the self-developed framework
+        * Pretrained models' high-performance deployment on smartphones.
+        * Investigate techniques for LLM's deployment on smart devices, including compression and framework, the project of which has been released as AndesGPT🤖 in ColorOS.
+        * Efficient GEMM kernel for the self-developed framework.
 
   - title: TA of Computer System (22fall)
     company: Dept. of Artificial Intelligence, Northeastern University
@@ -46,9 +46,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Prepare the guidebook of practical task
-        * Build the virtual environment
-        * Q&A for students in class
+        * Lab environments setup, delivering lectures, and grading.
 
   # - title: Professor of Semiconductor Physics
   #   company: University X

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pingwei Sun / 孙平炜
+title: Pingwei SUN / 孙平炜
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-- name: Northeastern University
+- name: HKUST
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -64,13 +64,13 @@ social:
 #email: ""
 ---
 
-I have graduated from the Northeastern University, with a major in Artificial Intelligence, and will enter the BDT program in HKUST.
+I have graduated from the Northeastern University with a B.Eng. majoring in Artificial Intelligence. I am now a member of the BDT program at HKUST.
 
-I am especially interested in the NLP field. Throughout my previous courses and projects, I have focused on DL, NLP and hardware acceleration. In my future studies, I would like to explore fields like NLP+X, enabling the model to be used efficiently and conveniently in more scenarios.
+Previously, my interests lay in NLP and computer systems. Currently, I am engaged in efficient Large Language Model (LLM) development and inference acceleration🚀. In the future, I aspire to facilitate broader accessibility to artificial intelligence by leveraging software and hardware codesign.
 
 Besides, photography and football are my top picks for relaxing in my spare time, and I'm also a partner of the photography studio. Feel free to cantact with me about things all above.
 
 <!-- I am now looking for a Phd position in 2024 fall.💪 
 {style="font-size: 1.0rem; background: #FFB76B; background: linear-gradient(to right, #F9D367 0%, #F8DF70 30%, #FBB929 60%, #FCA106 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"} -->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}/{{< staticref "uploads/resumec.pdf" "newtab" >}}简历{{< /staticref >}} as a PDF.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}/{{< staticref "uploads/resume_cn.pdf" "newtab" >}}简历{{< /staticref >}} as a PDF.

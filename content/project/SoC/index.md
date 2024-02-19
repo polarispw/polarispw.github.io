@@ -1,5 +1,5 @@
 ---
-title: High-performance CPU design and AI application based on MIPS
+title: High-performance CPU Design and AI Application Based on MIPS ISA
 summary: This is my graduation thesis, using the NECore to build up a SoC with a CNN accelerator.
 tags:
   - CS
